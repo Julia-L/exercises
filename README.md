@@ -5,4 +5,9 @@ Dieses Repository enthält die Übungen für die Vorlesung TPE an der Hochschule
 ## Übungsaufgaben
 
   * [Übung 1](exercise1)
+    - Unbewertet 
+  * [Übung 2](exercise2)
+    - Abgabe: 22.04.2015 23:59 Uhr
+    - Testat: 23.04.2015 11:45 - 14:00 Uhr
+
 
