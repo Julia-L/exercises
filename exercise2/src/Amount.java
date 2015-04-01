@@ -28,9 +28,6 @@ public class Amount {
     public int getSign() {
     }
 
-    public Amount abs() {
-    }
-
     public double toDouble() {
     }
 
