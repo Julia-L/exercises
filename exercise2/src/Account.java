@@ -15,9 +15,6 @@ public class Account {
     public String getOwner() {
     }
 
-    public String statement() {
-    }
-    
     public void accountFee(int promille) {
     }
 
