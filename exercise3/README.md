@@ -1,8 +1,7 @@
 # Pflichtübung 3: Metropolis [100 Punkte]
 
   * Ausgabe: 27.4.2015
-  * Abgabe: 6.5.2015 (23:55 Uhr)
-  * Testat: 7.5.2015 (11:45 - 14:00 Uhr)
+  * Abgabe/Testat: 7.5.2015 (11:45 - 14:00 Uhr)
 
 **Achtung Livetestat**: Am 7.5 wird die Lösung zu diesem Blatt testiert _und_ ein Live-Übung mit Testat stattfinden.  Sie wird auf diesem Übungsblatt basieren. Sie müssen ausgehend von Ihrer mitgebrachten Lösung eine zusätzliche Aufgabe bearbeiten und während der Laborstunde abgeben. Die 100 Punkte entfallen auf beide Teile - Bearbeitung dieses Übungsblattes und der Live-Übung.
 
