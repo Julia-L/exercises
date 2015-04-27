@@ -9,7 +9,7 @@ Dieses Repository enthält die Übungen für die Vorlesung TPE an der Hochschule
   * [Übung 2](exercise2)
     - Abgabe: 22.04.2015 23:59 Uhr (Bereitstellen auf GitHub)
     - Testat: 23.04.2015 11:45 - 14:00 Uhr
-  * [Übung 2](exercise3)
+  * [Übung 3](exercise3)
     - Abgabe und Testat: 07.05.2015 11:45 - 14:00 Uhr
     - **Achtung**: Live-Testat!
 
