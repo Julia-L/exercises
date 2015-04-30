@@ -31,7 +31,7 @@ Schurken können sich in Schurkensyndikaten (`Syndikat`) zusammenschließen. Ein
 
 ### Unternehmen
 
-Weiterhin gibt es in Metropolis noch Unternehmen. Diese sind entweder als _Personengesellschaften_ oder _Kapitalgesellschaften_ organisiert. Die Personengesellschaften haben eine beliebige Anzahl von Bürgern als Inhaber, die Kapitalgesellschaften eine beliebige Anzahl als Gesellschafter. Jedes Unternehmen hat einen Namen und einen Gewinn (in Metro-Dollar).
+Weiterhin gibt es in Metropolis noch Unternehmen. Diese sind entweder als _Personengesellschaften_ oder _Kapitalgesellschaften_ organisiert. Die Personengesellschaften haben eine beliebige Anzahl von Bürgern als Inhaber, die Kapitalgesellschaften eine beliebige Anzahl Bürger als Gesellschafter. Jedes Unternehmen hat einen Namen und einen Gewinn (in Metro-Dollar).
 
 Mutanten und Richter sind von der Teilhabe an Unternehmen ausgeschlossen. 
 
@@ -52,18 +52,18 @@ Es gibt drei verschiedene Steuern in Metropolis:
 
 Einkommen | Steuer
 ---------:|-------:
-10000     | 8000
-20000     | 16000
-30000     | 17500
-40000     | 19000
-50000     | 20500
-60000     | 22000
-80000     | 27000
-100000    | 32000
-120000    | 37000
-140000    | 45000
-150000    | 49000
-200000    | 69000
+10000     | 800   
+20000     | 1600  
+30000     | 3100  
+40000     | 4600  
+50000     | 6100  
+60000     | 7600  
+80000     | 12600 
+100000    | 17600 
+120000    | 22600 
+140000    | 30600 
+150000    | 34600 
+200000    | 54600 
 
 Die einzelnen Steuern können nicht gegeneinander verrechnet werden, sondern werden einfach aufsummiert.
 
@@ -72,7 +72,7 @@ Einkommen, Gewinne und Steuern werden grundsätzlich in ganzen Metro-Dollar geme
 
 ### Finanzamt
 
-Das _Finanzamt_ von Metropolis kennt alle Steuerpflichtigen (Bürger, Unternehmen und Syndikate), aber auch nur diese, und kann jederzeit die gesamten Steuereinnahmen für Metropolis berechnen.
+Das _Finanzamt_ von Metropolis kennt alle steuerpflichtigen Einwohner aber auch nur diese, und kann jederzeit die gesamten Steuereinnahmen für Metropolis berechnen.
 
 
 ## Aufgabe
