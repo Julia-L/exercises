@@ -8,7 +8,7 @@
 
 ## Problembeschreibung
 
-Irgendwie ist es Ihnen gelungen, aus Rapture zu entkommen, wobei die Flucht sehr anstrengen war. Völlig erschöpft fallen Sie in einen tiefen, traumlosen Schlaf. Als Sie erwachen, befinden Sie sich in einer düsteren Stadt namens Metropolis, die Ihnen seltsam bekannt und doch fremd vorkommt. Sie sind sich nicht sicher, ob es sich um einen Traum oder die Realität handelt.
+Irgendwie ist es Ihnen gelungen, aus Rapture zu entkommen, wobei die Flucht sehr anstrengend war. Völlig erschöpft fallen Sie in einen tiefen, traumlosen Schlaf. Als Sie erwachen, befinden Sie sich in einer düsteren Stadt namens Metropolis, die Ihnen seltsam bekannt und doch fremd vorkommt. Sie sind sich nicht sicher, ob es sich um einen Traum oder die Realität handelt.
 
 Metropolis zeichnet sich zum einen durch sein komplexes Steuersystem und zum anderen durch die Tatsache aus, dass es neben Menschen auch Mutanten als Einwohner gibt. Dank der unermüdlichen Arbeit des berühmten Professor Xavier, leben Menschen und Mutanten mehr oder weniger harmonisch als Einwohner von Metropolis zusammen, wobei sich einige Mutanten als Schurken, andere als Superhelden verdingen. Jeder Einwohner hat einen Namen und ein Einkommen (in Metro-Dollar).
 
@@ -24,7 +24,7 @@ Die Mutanten sind unsterblich und haben daher auch kein Alter, denn Unsterbliche
 
 Es gibt zwei Arten von Mutanten: _Superhelden_ und _Schurken_. Die Superhelden haben eine oder mehrere Superkräfte (`Superkraft`) und können mit Schurken kämpfen (`kaempfe`), wobei der Ausgang des Kampfes von der Superkraft abhängt. Ein Superheld kann einen Kampf entweder gewinnen oder verlieren. 
 
-Jeder Schurke hat eine einzige Superkraft (`Superkraft`), die seine Schwäche ist. Trifft er auf einen Superhelden, der diese Kraft besitzt, verliert der den Kampf. Besitzt der Superheld die Kraft nicht, gewinnt der Schurke. Schurken können ebenfalls einen Kampf mit einem Superhelden initiieren (`kaempfe`) und den Kampf nach denselben Regeln genauso entweder verlieren oder gewinnen.
+Jeder Schurke hat eine Schwäche, d.h. eine Superkraft (`Superkraft`), die ihn besiegen kann. Trifft er auf einen Superhelden, der diese Kraft besitzt, verliert er den Kampf. Besitzt der Superheld die Kraft nicht, gewinnt der Schurke. Schurken können ebenfalls einen Kampf mit einem Superhelden initiieren (`kaempfe`) und den Kampf nach denselben Regeln genauso entweder verlieren oder gewinnen.
 
 Schurken können sich in Schurkensyndikaten (`Syndikat`) zusammenschließen. Ein Syndikat hat einen Namen (z.B. "The Fantastic 5") und eine beliebige Anzahl von Schurken, die sich in dem Syndikat organisieren. Ein Schurke kann durchaus in mehreren Syndikaten organisiert sein, was aber wegen des Steuersystems (siehe unten) nicht von vielen Schurken wahrgenommen wird. 
 
