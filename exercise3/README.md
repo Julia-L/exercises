@@ -86,3 +86,28 @@ Nutzen Sie Vererbung, abstrakte Klassen und Interfaces, um keine Information und
 Teilen Sie die entworfenen Strukturen in verschiedene Pakete auf, und wählen Sie sinnvolle Sichtbarkeitsattribute.
 
 **Abgabe:** Erzeugen Sie ein PDF-Dokument von Ihrem UML-Diagramm und bringen Sie es *ausgedruckt* zum Testat mit.
+
+
+### Live-Testat (7.5.2015)
+
+Ausgehend von **Ihrer Lösung** des Übungsblattes, d.h. ausgehend von **Ihrem UML-Diagramm**, implementieren Sie bitte die folgenden Klassen:
+
+  * `Schurke`
+  * `Syndikat`
+  * `Finanzamt`
+
+Mglw. müssen Sie auch weitere Basisklassen und Interfaces aus Ihrem Modell implementieren, damit die Klassen korrekt funktionieren können. Den Aspekt der Kämpfe zwischen Superhelden und Schurken dürfen Sie bei der Implementierung _weglassen_.
+
+Legen Sie dann bitte folgende Schurken an:
+
+  * _Azog der Schänder_, Mutation: _Orkismus_, Einkommen 27.990 $
+  * _Hannibal Lecter_, Mutation: _Kannibalismus_, Einkommen 19.910 $
+  * _Onox_, Mutation: _Legendismus_, Einkommen 270.201 $
+
+Azog und Hannibal schließen sich in einem Syndikat namens "Syndikat der Superschurken" zusammen. Onox bleibt lieber alleine.
+
+Berechnen Sie die Steuer, die in die Staatskasse von Metropolis fließt und geben Sie diese aus.
+
+**Abgabe:** Wenn Sie mit der Aufgabe fertig sind, drucken Sie sie aus und laden Sie den Quelltext **und** das PDF mit dem UML-Modell aus dem ersten Teil auf GitHub hoch. Schreiben Sie die Einnahmen für die Staatskasse bitte ebenfalls auf den Ausdruck.
+
+
