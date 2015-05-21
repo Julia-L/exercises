@@ -1,8 +1,8 @@
 # Pflichtübung 4: Bundesnachrichtendienst [100 Punkte]
 
   * Ausgabe: 13.5.2015
-  * Abgabe: 02.06.2015 23:59 Uhr (Bereitstellen auf GitHub)
-  * Testat: 4.6.2015 (11:45 - 14:00 Uhr)
+  * Abgabe: 09.06.2015 23:59 Uhr (Bereitstellen auf GitHub)
+  * Testat: 11.6.2015 (11:45 - 14:00 Uhr)
 
 
 ## Problembeschreibung
